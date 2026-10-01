@@ -1,0 +1,3 @@
+Hello, this is Gemini text to speech. Choose Flash for studio narration, or Flash-Lite for fast batch conversion.
+
+You can drop a markdown file onto the Single tab, or convert a whole folder from the Batch tab.

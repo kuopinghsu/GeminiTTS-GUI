@@ -1,0 +1,9 @@
+# Python deps for app.py
+gradio>=5.0
+google-genai>=2.25.0
+numpy
+soundfile
+python-dotenv
+
+# System packages (install separately, not via pip):
+# - ffmpeg  # required for MP3 / AAC export (libmp3lame)
